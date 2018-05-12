@@ -1,0 +1,5 @@
+{
+    "max_preserve_newlines": 3,
+    "space_in_paren": true,
+    "wrap_line_length": 100
+}
